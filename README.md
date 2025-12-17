@@ -9,7 +9,6 @@ Transforming coffee into something that works
 # Some (not all) Work Experience
 
 * Cortex Agritechnology (Product Director)
-* Cortex Agritechnology (Product Director)
 * Online Business Systems (Principal Consultant)
 * AT&T (DevOps)
 * Motorola (System Engineer)

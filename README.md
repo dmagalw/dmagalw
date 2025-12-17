@@ -10,7 +10,7 @@ Transforming coffee into something that works
 
 * Cortex Agritechnology (Product Director)
 * Online Business Systems (Principal Consultant)
-* AT&T (DevOps Manager)
+* AT&T (DevOps Lead)
 * Motorola (System Engineer)
 * HadasDSP (DSP Algorithms developer)
 
